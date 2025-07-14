@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ke Yang]! 
+# 👋 Hi, I'm Ke Yang! 
 
 📍 Currently based in the world of **AI & Algorithms**
 
