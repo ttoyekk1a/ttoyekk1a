@@ -20,7 +20,7 @@ I’m passionate about:
 Here are some highlights:
 
 ### 🥇 **Winner**
-- **[Google-Gemma AI Competition](https://www.kaggle.com/competitions/gemma-language-tuning/discussion/575770)** – Winner with **$30K prize**
+- **[Google-Gemma AI Competition](https://developers.googleblog.com/en/unlock-global-communication-gemma-projects/)** – Winner with **$30K prize**
 
 ### 🥈 **Silver Medals**
 - **LLM - Detect AI Generated Text**
